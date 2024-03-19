@@ -1,0 +1,22 @@
+{
+  "files.associations": {
+    "cstdlib": "c",
+    "wait.h": "c",
+    "siginfo_t.h": "c",
+    "stdlib.h": "c",
+    "cmath": "c",
+    "ncurses.h": "c",
+    "functional": "c",
+    "array": "c",
+    "string_view": "c",
+    "initializer_list": "c",
+    "utility": "c",
+    "math.h": "c",
+    "screen.h": "c",
+    "vector2.h": "c",
+    "list.h": "c",
+    "string": "c",
+    "ostream": "c",
+    "transform.h": "c"
+  }
+}
